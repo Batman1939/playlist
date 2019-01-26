@@ -19,6 +19,9 @@ h1 {
     height: 100px;
     width: auto;
     margin: 20px;
+    border-width: medium;
+    border-style: solid;
+    border-color: turquoise;
 }
 
 #songs p {
